@@ -1,6 +1,6 @@
 # Pedro's Dotfiles
 
-These are my dotfiles for my Arch Linux setup that were --stollen-- inspired from [Diogo's got files](https://github.com/diogotcorreia/dotfiles). 
+These are my dotfiles for my Arch Linux setup that were inspired (*cough* stolen *cough*) from [Diogo's got files](https://github.com/diogotcorreia/dotfiles). 
 
 ## Installation
 
